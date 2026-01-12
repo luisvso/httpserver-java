@@ -1,0 +1,5 @@
+br/luis/httpserver/config/Configuration.class
+br/luis/httpserver/config/ConfigurationManager.class
+br/luis/httpserver/HttpServer.class
+br/luis/httpserver/util/json.class
+br/luis/httpserver/config/exception/HttpException.class
